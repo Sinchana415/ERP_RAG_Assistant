@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment Variables & Secrets
+.env
+
+# Local Data/Databases (Files that can be regenerated)
+faiss_index/
+*.db
