@@ -7,6 +7,8 @@ venv/
 # Environment Variables & Secrets
 .env
 
-# Local Data/Databases (Files that can be regenerated)
-faiss_index/
+# Vector DB / Generated files
+vectorstore/
+
+# Local databases
 *.db
